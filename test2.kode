@@ -1,0 +1,33 @@
+// 변수 정의 및 출력
+var var1 Hello
+print var1
+
+// 사용자 입력 받기
+input var2
+print var2
+
+// 조건문 실행
+var condition 10
+if condition > 5 then
+    print "Condition is true"
+else
+    print "Condition is false"
+
+// 반복문 실행
+for 1 5
+    print index
+
+// 문자열 연결
+concat combined Hello World
+print combined
+
+// 부분 문자열 추출
+substring part WorldHello 5 5
+print part
+
+// 문자열 검색
+search found HelloWorld Hello
+print found
+
+// 외부 모듈 임포트
+import external_module
