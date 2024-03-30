@@ -1,0 +1,17 @@
+input num1
+input num2
+
+var sum +
+print sum num1 num2
+
+var difference -
+print difference num1 num2
+
+var product *
+print product num1 num2
+
+var quotient /
+print quotient num1 num2
+
+var remainder %
+print remainder num1 num2
