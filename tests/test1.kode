@@ -1,0 +1,6 @@
+var x 10
+var y 20
+print x
+print y
+var z 30
+print z
